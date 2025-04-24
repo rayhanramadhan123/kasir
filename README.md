@@ -1,4 +1,4 @@
 # kasir
 Desain Database Kasir
 
-![Hom page]()
+![Hom page](!kasir_db)
